@@ -11,6 +11,7 @@
 int getlastdigit(int n)
 {
 	int lastdigit = n % 10;
+
 	return (lastdigit);
 }
 
